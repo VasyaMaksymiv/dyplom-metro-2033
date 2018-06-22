@@ -1,0 +1,82 @@
+.description-books {
+    font-size: 12px;
+}
+
+.book-title {
+    font-size: 16px;
+    margin-bottom: -28px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.author {
+    font-size: 14px;
+    margin-bottom: -28px;
+    font-weight: 700;
+}
+
+.author span {
+    font-size: 14px;
+    font-weight: 100;
+    font-family:monospace;
+}
+
+.book-info {
+    margin-top: 10px;
+}
+
+.book-info h3 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: -20px;
+}
+
+.book-info p{
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: -20px;
+}
+
+.book-info span {
+    font-size: 17px;
+    font-weight: 100;
+    font-family:monospace;
+}
+
+.deskription-book {
+    padding-top: 10px;
+}
+
+.deskription-book p {
+    margin-top: 0px;
+}
+
+.deskription-book span {
+    font-size: 17px;
+    font-weight: 100;
+    font-family:monospace;
+    
+}
+
+.deskription-book p {
+    font-size: 16px;
+}
+
+@media only screen and (min-width: 992px)
+#mainNav .navbar-nav>li.nav-item>a {
+    padding: 9px 20px;
+    color: #fff;
+}
+
+a.dropdown-toggle{
+    color: red;
+    padding-top: 10px;
+}
+
+.mutant-facts {
+    font-size: 12px;
+}
+
+.game-info p{
+    font-size: 11px;
+}
